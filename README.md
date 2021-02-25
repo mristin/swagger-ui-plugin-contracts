@@ -1,5 +1,15 @@
 # Swagger-ui-plugin-contracts
 
+[![Check](
+https://github.com/mristin/swagger-ui-plugin-contracts/actions/workflows/check-push-to-main.yml/badge.svg
+)](
+https://github.com/mristin/swagger-ui-plugin-contracts/actions/workflows/check-push-to-main.yml
+)
+
+[![npm](https://img.shields.io/npm/v/swagger-ui-plugin-contracts)](
+https://www.npmjs.com/package/swagger-ui-plugin-contracts
+)
+
 This is a [Swagger UI] plugin which renders the [contracts] of your operations (`x-contracts`).
 
 [Swagger UI]: https://swagger.io/tools/swagger-ui/
