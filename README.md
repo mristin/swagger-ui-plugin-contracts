@@ -15,6 +15,8 @@ This is a [Swagger UI] plugin which renders the [contracts] of your operations (
 [Swagger UI]: https://swagger.io/tools/swagger-ui/
 [contracts]: https://en.wikipedia.org/wiki/Design_by_contract
 
+![screenshot of the plugin](screenshot.png)
+
 # Usage
 
 There are two ways to include the plugin in Swagger UI: *via* `npm` and *via* `unpkg`.
