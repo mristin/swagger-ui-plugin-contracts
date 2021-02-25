@@ -15,5 +15,7 @@ module.exports = {
   plugins: [
   ],
   rules: {
+    "indent": "off",
+    "comma-dangle": "off"
   }
 }
