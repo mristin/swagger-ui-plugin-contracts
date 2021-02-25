@@ -30,14 +30,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a14556c0-bca4-4a80-832d-a8d812794e5b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.github/.workflows/check.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.github/.workflows/publish.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CONTRIBUTING.md" beforeDir="false" afterPath="$PROJECT_DIR$/CONTRIBUTING.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
-    </list>
+    <list default="true" id="a14556c0-bca4-4a80-832d-a8d812794e5b" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -70,7 +63,7 @@
       <option name="presentableId" value="Default" />
       <updated>1614026417515</updated>
       <workItem from="1614026418637" duration="12020000" />
-      <workItem from="1614281724280" duration="9657000" />
+      <workItem from="1614281724280" duration="10051000" />
     </task>
     <servers />
   </component>
