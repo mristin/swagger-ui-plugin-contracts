@@ -9,8 +9,9 @@
     "prepare_manual_test": "copyfiles --flat build/index.js manual_test/",
     "serve_manual_test": "serve manual_test",
     "fix": "prettier --write src/ && eslint --fix src/**.js",
-    "check": "prettier --check src/ && eslint src/**.js && npm run build",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "check": "prettier --check src/ && eslint src/**.js",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "prepublishOnly": "npm run check && npm run build"
   },
   "directories": {
     "build": "build"
