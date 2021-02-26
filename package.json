@@ -1,6 +1,6 @@
 {
   "name": "swagger-ui-plugin-contracts",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Extend Swagger UI to pretty-display operation contracts.",
   "homepage": "https://github.com/mristin/swagger-ui-plugin-contracts",
   "main": "build/index.js",
